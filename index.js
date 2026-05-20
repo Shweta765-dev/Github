@@ -3,3 +3,7 @@ console.log("git crash course");
 
 console.log("Ater adding the git tracker");
 
+function Intro()
+{
+    console.log("Git is going to say you Hiiiiii,as im new branch");
+}
