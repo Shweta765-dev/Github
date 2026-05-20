@@ -7,3 +7,9 @@ function Intro()
 {
     console.log("Git is going to say you Hiiiiii,as im new branch");
 }
+
+
+function Byadi()
+{
+    FileSystem.out.println("Hi I am Adi");
+}
